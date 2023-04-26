@@ -1,0 +1,37 @@
+.divmain{
+    background-image: url('img1.jpg');
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div-1{
+    display:inline-flex;
+    width: 1200px;
+}
+.main-div{
+    font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
+.div-1-1{
+    display: block;
+    width:49%;
+}
+.div-1-2{
+    display: block;
+    width:49%;
+}
+#head1{
+    font-size: 50;
+    line-height: 1.16;
+    color: #515b69;
+    font-weight: 300;
+    
+}
+#para1{
+    color: #7f8795;
+    font-size: 22px;
+    line-height: 1.68;
+    font-weight: 300;
+    letter-spacing: 0px;
+}
+
+
